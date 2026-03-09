@@ -1,4 +1,4 @@
-export const episodeList = [
+export const data = [
   {
     id: 1,
     title: "The Silent Caller",
@@ -48,3 +48,5 @@ export const episodeList = [
       "In the thrilling season finale, every truth comes to light, but the consequences are deadly.",
   },
 ];
+
+export default data;
